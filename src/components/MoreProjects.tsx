@@ -3,21 +3,21 @@ import { MaskContainer } from "./ui/svg-mask-effect";
 import { HoverEffect } from "./ui/card-hover-effect";
 export const projects = [
   {
-    title: "Portfolio Website",
-    description: "A Portfolio website created using NextJs with Aceternity UI.",
-    link: "https://github.com/utkrishta24/Utkrishta-Portfolio",
+    title: "SUPRA SAEINDIA 2022",
+    description:
+      "I contributed to vehicle fabrication by leading CAD modeling, structural simulations (ANSYS & RULA), material procurement, and precision fabrication. I optimized stability through iterative steering geometry and managed Impact Attenuator fabrication, testing, and reporting, enhancing my skills in CAD, composites, and project management.",
+    link: "",
   },
   {
-    title: "U&I Dark",
+    title: "SAE NIS EFFI-CYCLE 2024",
     description:
       "Custom Visual Studio Code theme designed for a modern and sleek coding experience.",
-    link: "https://marketplace.visualstudio.com/items?itemName=UtkrishtaSinha.u-i-dark",
+    link: "",
   },
   {
-    title: "TEDxKIET Official Website",
-    description:
-      "The official website of TEDxKIET, designed and developed as an individual contributor exhibiting the motto of ’ideas worth spreading.’",
-    link: "https://tedxkiet.com/",
+    title: "Ongoing Projects",
+    description: "I am currently working on a few projects that I will be sharing soon.",
+    link: "",
   },
 ];
 
@@ -41,9 +41,9 @@ export default function MoreProjects() {
       </MaskContainer>
       <div className="max-w-5xl mx-auto px-8 flex flex-wrap ">
         <HoverEffect
-          items={projects.map(project => ({
+          items={projects.map((project) => ({
             ...project,
-            linkProps: { target: "_blank", rel: "noopener noreferrer" }
+            linkProps: { target: "_blank", rel: "noopener noreferrer" },
           }))}
         />
       </div>

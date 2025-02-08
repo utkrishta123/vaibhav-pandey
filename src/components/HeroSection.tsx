@@ -19,12 +19,7 @@ export default function HeroSection() {
         >
           Hi, I am Vaibhav Pandey!
           <p className="mt-10 font-normal text-base md:text-xl text-neutral-300 max-w-half mx-auto" style={{ marginBottom: "-8.5rem" }}>
-            "Hi, I'm Vaibhav Pandey, a Mechanical Engineer who graduated with a
-            B.Tech in 2024. I'm passionate about innovation and problem-solving,
-            always eager to apply my technical skills to real-world challenges.
-            My interests lie in mechanical design, manufacturing, and
-            automation, and I'm excited to explore opportunities that push the
-            boundaries of engineering."Hi, I'm Vaibhav Pandey, a Mechanical
+            Hi, I'm Vaibhav Pandey, a Mechanical
             Design Engineer with a passion for precision and innovation. My
             expertise lies in CAD & CAE, where I thrive on tackling complex
             engineering challenges and transforming ideas into efficient,
