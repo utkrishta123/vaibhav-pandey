@@ -6,17 +6,18 @@ export const projects = [
     title: "SUPRA SAEINDIA 2022",
     description:
       "I contributed to vehicle fabrication by leading CAD modeling, structural simulations (ANSYS & RULA), material procurement, and precision fabrication. I optimized stability through iterative steering geometry and managed Impact Attenuator fabrication, testing, and reporting, enhancing my skills in CAD, composites, and project management.",
-    link: "",
+    link: "https://drive.google.com/drive/folders/14HPceyoWgOSajnqHxb5xVSHQTefIOQ3R?usp=sharing",
   },
   {
     title: "SAE NIS EFFI-CYCLE 2024",
     description:
-      "Custom Visual Studio Code theme designed for a modern and sleek coding experience.",
-    link: "",
+      "I contributed to Effi-Cycle, a human-electric hybrid vehicle designed for efficiency, performance, and safety. The project emphasized aerodynamics, ergonomics, and sustainability, fostering innovation in eco-friendly mobility. I worked on Effi-Que, integrating ADAS features like collision avoidance, tire pressure monitoring, and blind spot detection. These features were evaluated through virtual and physical testing to enhance vehicle safety and future readiness.",
+    link: "https://drive.google.com/drive/folders/14HPceyoWgOSajnqHxb5xVSHQTefIOQ3R?usp=sharing",
   },
   {
     title: "Ongoing Projects",
-    description: "I am currently working on a few projects that I will be sharing soon.",
+    description:
+      "I am currently working on a few projects that I will be sharing soon.",
     link: "",
   },
 ];
