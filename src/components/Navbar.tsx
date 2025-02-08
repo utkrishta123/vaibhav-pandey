@@ -12,7 +12,7 @@ export default function Navbar() {
     },
     {
       name: "Resume",
-      link: "https://www.linkedin.com/in/vaibhav-pandey-a671b3213",
+      link: "https://drive.google.com/file/d/1QiP7YL4OPXG2zxvcRWfta-9OMcwGhks7/view?usp=sharing",
       icon: <IconUser className="h-4 w-4 text-black dark:text-white" />,
     },
     {

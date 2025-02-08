@@ -26,7 +26,7 @@ export default function Footer() {
             >
               <FontAwesomeIcon className="p-7 text-3xl" icon={faLinkedin} />
             </Link>
-            <Link href={"mailto:utkrishtasinha@gmail.com"} target="_blank">
+            <Link href={"mailto:pandeyvaibhav8109@gmail.com"} target="_blank">
               <FontAwesomeIcon className="p-7 text-3xl" icon={faEnvelope} />
             </Link>
           </div>
